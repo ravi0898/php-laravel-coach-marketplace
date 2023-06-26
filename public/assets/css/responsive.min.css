@@ -1,0 +1,459 @@
+@media(min-width:575px){
+
+}
+@media(min-width: 768px){ 
+    .card-desc-equal{
+        height: 100px;
+    }
+}
+@media(min-width:991px){
+
+}
+@media(min-width:1200px){
+    .hamburger{
+        display: none;
+    }
+}
+@media(max-width:1199px){
+    .hamburger .line{
+        width: 38px;
+        height: 5px;
+        background-color:#ff9b7b;
+        border-radius: 40px;
+        display: block;
+        margin: 4px auto;
+        -webkit-transition: all 0.3s ease-in-out;
+        -o-transition: all 0.3s ease-in-out;
+        transition: all 0.3s ease-in-out;
+    }  
+    .hamburger:hover{
+        cursor: pointer;
+    } 
+    .hamburger.is-active .line:nth-child(2){
+        opacity: 0;
+    } 
+    .hamburger.is-active .line:nth-child(1){
+        -webkit-transform: translateY(6px) rotate(45deg);
+        -ms-transform: translateY(6px) rotate(45deg);
+        -o-transform: translateY(6px) rotate(45deg);
+        transform: translateY(6px) rotate(45deg);
+    }
+    .hamburger.is-active .line:nth-child(3){
+        -webkit-transform: translateY(-12px) rotate(-45deg);
+        -ms-transform: translateY(-12px) rotate(-45deg);
+        -o-transform: translateY(-12px) rotate(-45deg);
+        transform: translateY(-12px) rotate(-45deg);
+    } 
+    .head-nav{
+        position: absolute;
+        width: 216px;
+        top: 48px;
+        height: 100vh;
+        left: 0;
+        background-color: #ff9b7b;
+        visibility: hidden;
+        opacity: 0;
+        z-index: 9;
+        transition: all 0.3s ease-in-out;
+        transition-timing-function: cubic-bezier(.25,.1,0,.45);
+    }
+    .head-nav.active{
+        visibility: visible;
+        opacity: 1;
+    }
+    .nav-ul{
+        display: block;
+        background-color: #ff9b7b;
+    }
+    .nav-li:not(:last-child){
+        margin-right: 0;
+    }
+    .nav-li{
+        border-top: 1px solid #df8b70;
+        padding: 14px 16px;
+    }
+    .nav-li:last-child{
+        border-bottom: 1px solid #df8b70;
+    }
+    .nav-items{
+        color: #000;
+        font-weight: 700;
+    }
+    .nav-items:hover, .nav-items:active{
+        color: #fff;
+    }
+    .logo-wrap img{
+        margin-right: 0;
+    }
+    .signup-mobile-btn{
+        background: #000;
+        color: #fff;
+        width: 100%;
+    }
+    .dropmenu-item { 
+        color: #000000;
+    }
+    .signup-drop-menu{
+        width: 100%;
+        border: 1px solid #000000;
+    }
+    .border-top-main {
+        border-top: 1px solid #000000;
+    }
+}
+@media(max-width:1024px){
+    .card-img-wrap{
+        height: 286px;
+    }
+}
+@media(max-width:992px){
+    .logo-row .logos{
+        width: 118px;
+        height: 54px;
+    }
+    .slider-section .slider-next-btn{
+        right: 16px;
+        --swiper-navigation-size: 22px;
+    }
+    .slider-section .slider-prev-btn{
+        left: 16px;
+        --swiper-navigation-size: 22px;
+    }
+    .slider-bg-img, .about-bg-img{
+        height: 290px;
+    }
+    .sidebar-offcanvas.active {
+        left: 0;
+    }
+    .sidebar-offcanvas{
+        left: -235px;
+    }
+    .modal .modal-dialog .modal-content .modal-body{
+        padding: 35px 10px;
+    }
+}
+@media(max-width:767px){
+    .header-wrap{
+        padding: 15px 0;
+    }
+    .nav-li:last-child{
+        border-bottom: 0;
+    }
+    .logo-row{
+        gap: 20px;
+    }
+    .how-it-word-overlay{
+        right: 8px;
+    }
+    .slider-section .advisor-next-btn {
+        right: 47%;
+        --swiper-navigation-size: 22px;
+        position: absolute;
+        top: 98%;
+    }
+    .slider-section .advisor-prev-btn {
+        left: 47%;
+        --swiper-navigation-size: 22px;
+        top: 98%;
+    }
+}
+@media(max-width:576px){
+    .logo-wrap img{
+        width: 160px;
+    }
+    .hamburger .line {
+        width: 30px;
+        height: 3px;
+    }
+    .head-nav{
+        top: 55px;
+    }
+    .hamburger.is-active .line:nth-child(1) {
+        -webkit-transform: translateY(6px) rotate(45deg);
+        -ms-transform: translateY(6px) rotate(45deg);
+        -o-transform: translateY(6px) rotate(45deg);
+        transform: translateY(5px) rotate(45deg);
+    }
+    .hamburger.is-active .line:nth-child(3) {
+        -webkit-transform: translateY(-12px) rotate(-45deg);
+        -ms-transform: translateY(-12px) rotate(-45deg);
+        -o-transform: translateY(-12px) rotate(-45deg);
+        transform: translateY(-9px) rotate(-45deg);
+    } 
+    .banner-section{
+        height: 400px;
+    }
+    .banner-heading{
+        font-size: 20px;
+    }
+    .slider-heading{
+        font-size: 20px;
+        line-height: 40px;
+    }
+    .footer-btn{ 
+        display: block;
+    }
+    .banner{
+        height: 300px;
+    }
+    .about-subtitle{
+        font-size: 20px;
+    }
+    .about-slider{
+        margin-top: 0;
+    }
+    .about-slider-heading{
+        font-size: 16px;
+        line-height: 30px;
+    }
+    .aboutus-img {
+        height: 300px;
+        width: 100%;
+        margin: auto;
+    }
+    .about-us-content{
+        position: static;
+        margin-top: 24px;
+    }
+    .aboutus-img{
+        background-image: linear-gradient(rgba(0,0,0, 0.2), rgba(0,0,0, 0.3)), url(../media/about-client-img.png)
+    }
+    .about-us-content p{
+        font-size: 14px;
+        padding: 0 12px; 
+    }
+    .about-detail-content h2{
+        font-size: 26px;
+    }
+    .for-business-content{
+        font-size: 16px;
+    }
+    .contact-inputs, .textarea{
+        width: 250px;
+    }
+    .advisor-bg-img {
+        height: 280px;
+    }
+    .slider-section .advisor-next-btn {
+        right: 44%;
+        --swiper-navigation-size: 22px;
+        position: absolute;
+        top: 98%;
+    }
+    .slider-section .advisor-prev-btn {
+        left: 44%;
+        --swiper-navigation-size: 22px;
+        top: 98%;
+    }
+    .advisor-img {
+        height: 300px;
+        object-fit: cover;
+        width: 100%;
+    }
+    .coach-name{
+        font-size: 22px;
+    }
+    .advisor-small-text{
+        font-size: 15px;
+    }
+    .work-card-text {
+        font-size: 16px;
+    }
+    .search-btn-wrap{
+        max-width: 316px;
+    }
+    .discover-search-input{
+        padding: 4px 110px 4px 16px;
+    }
+    .category-slots {
+        gap: 2px;
+    }
+    .time-select label span{
+        font-size: 14px;
+        padding: 10px 20px;
+    }
+    .category-slots .time-select label span{
+        padding: 6px 8px;
+    }
+    .profile-time-slot{
+        gap: 10px;
+    }
+    .profile-heading {
+        font-size: 20px;
+    }
+    .profile-price-tag{
+        position: absolute;
+        bottom: -20px;
+        margin: 0;
+        right: -10px;
+        background: #000;
+        padding: 4px 12px;
+        font-size: 12px;
+        border-radius: 30px;
+        color: #fff !important;
+        border: 1px solid #fff;
+    }
+    .card-bg-img {
+        width: 96px;
+        height: 96px;
+    }
+    .card-serach-img {
+        width: 50px;
+    }
+    .contact-img-wrap{
+        text-align: center;
+    }
+    .contact-img {
+        width: 300px;
+        margin: auto;
+        padding: 20px;
+    }
+    .contact-wrap {
+        padding: 24px 18px;
+    }
+    .card-padding{
+        padding: 0;
+    }
+    .p-padding{
+        padding: 30px 0 !important;
+    }
+    .content-wrapper .container{
+        max-width: 100%;
+    }
+    .invoice-wrap {
+        max-width: 100%;
+    }
+    .invoice-content {
+        padding: 30px 12px;
+    }
+    .invoice-coach-detail{
+        padding: 30px 12px;
+    }
+    .about-zentia{
+        max-width: 100%;
+        margin-top: 36px;
+    }
+    .invoice-id{
+        justify-content: center;
+    }
+    .invoice-table-wrap {
+        padding: 10px 12px;
+    }
+    .invoice-bottom-bg{
+        height: 100px;
+    }
+    .alert-dismissible{
+        padding-right: 0;
+    }
+    .dataTables_length{
+        text-align: left !important;
+        margin-bottom: 40px;
+        padding-left: 15px;
+    }
+    #order-table_filter{
+        text-align: left;
+    }
+    #transaction-table_filter{
+        text-align: left !important;
+    }
+    .session-detail-wrap{
+        display: block;
+    }
+    .user-padding{
+        padding: 10px;
+    }
+    .session-heading{
+        font-size: 18px;
+        padding: 8px;
+    }
+    .session-detail-wrap p{
+        padding: 12px 10px;
+        font-size: 15px;
+    }
+    .transaction-table-wrapper{
+        padding: 10px 20px;
+        background: #222;
+        border-radius: 16px;
+    }
+    .pay-gif{
+        width: 200px;
+    }
+    .time-select label{
+        width: 5em;
+    }
+    .profile-date-available-slot .time-select label span{
+        min-width: 134px;
+    }
+    .check-cl label {
+        min-width: 268px;
+    }
+    .profile-date-available-slot .check-cl label {
+        min-width: 136px;
+    }
+    .category-slots .time-select label span {
+        min-width: 260px;
+    }
+    .profile-date-available-slot .time-select label span{
+        padding: 12px 20px;
+    }
+    .coach-calendar .check-cl label{
+        min-width: 132px;
+    }
+    .coach-calendar .time-select label span{
+        padding: 6px 20px;
+    }
+    .coach-calendar .time-select{
+        border: 0;
+        border-radius: 12px;
+    }
+    .discover-slider {
+        padding: 0 28px !important;
+    }
+    .time-label .time-select label {
+        min-width: 88px;
+    }
+    .meeting-note{
+        padding: 12px 12px;
+    }
+    .coach-profile-img{
+        width: 100%;
+        height: 320px;
+        object-fit: contain;
+    }
+    .how-it-word-overlay{
+        top: 8px;
+    }
+    .home-card-heading{
+        font-size: 20px;
+    }
+    .section-title h2{
+        font-size: 34px;
+    }
+    .logo-first {
+        width: 240px;
+    }
+    .coach-transaction-img{
+        width: 190px;
+    }
+    .rating-wrap{
+        max-width: 320px;
+        padding: 20px 30px;
+    }
+    .rate-textarea{
+        width: 100%;
+        height: 76px;
+    }
+    .user-view-content{
+        padding: 14px;
+        border-radius: 14px;
+    }
+    .user-view-icon{
+        width: 60px;
+    }
+}
+@media(max-width:400px){
+    .logo-row .logos {
+        width: 144px;
+        height: 36px;
+    }
+}

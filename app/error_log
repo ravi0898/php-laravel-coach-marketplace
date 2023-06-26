@@ -1,0 +1,244 @@
+[05-Aug-2022 22:54:51 Europe/London] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Auth\User' not found in /home/mboeqrle/pragya.dbtechserver.online/zentia/app/User.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/mboeqrle/pragya.dbtechserver.online/zentia/app/User.php on line 9
+[05-Aug-2022 22:54:51 Europe/London] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Auth\User' not found in /home/mboeqrle/pragya.dbtechserver.online/zentia/app/User.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/mboeqrle/pragya.dbtechserver.online/zentia/app/User.php on line 9
+[05-Aug-2022 22:54:52 Europe/London] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/mboeqrle/pragya.dbtechserver.online/zentia/app/MasterCatdataModel.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/mboeqrle/pragya.dbtechserver.online/zentia/app/MasterCatdataModel.php on line 13
+[05-Aug-2022 22:54:52 Europe/London] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/mboeqrle/pragya.dbtechserver.online/zentia/app/MasterCatdataModel.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/mboeqrle/pragya.dbtechserver.online/zentia/app/MasterCatdataModel.php on line 13
+[05-Aug-2022 22:54:52 Europe/London] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/mboeqrle/pragya.dbtechserver.online/zentia/app/MasterCatdataModel.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/mboeqrle/pragya.dbtechserver.online/zentia/app/MasterCatdataModel.php on line 13
+[05-Aug-2022 22:54:52 Europe/London] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Auth\User' not found in /home/mboeqrle/pragya.dbtechserver.online/zentia/app/User.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/mboeqrle/pragya.dbtechserver.online/zentia/app/User.php on line 9
+[05-Aug-2022 22:54:52 Europe/London] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/mboeqrle/pragya.dbtechserver.online/zentia/app/CategoryModel.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/mboeqrle/pragya.dbtechserver.online/zentia/app/CategoryModel.php on line 7
+[05-Aug-2022 22:54:52 Europe/London] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/mboeqrle/pragya.dbtechserver.online/zentia/app/CategoryModel.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/mboeqrle/pragya.dbtechserver.online/zentia/app/CategoryModel.php on line 7
+[05-Aug-2022 22:54:52 Europe/London] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Auth\User' not found in /home/mboeqrle/pragya.dbtechserver.online/zentia/app/User.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/mboeqrle/pragya.dbtechserver.online/zentia/app/User.php on line 9
+[05-Aug-2022 22:54:52 Europe/London] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/mboeqrle/pragya.dbtechserver.online/zentia/app/BookingModel.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/mboeqrle/pragya.dbtechserver.online/zentia/app/BookingModel.php on line 7
+[05-Aug-2022 22:54:52 Europe/London] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/mboeqrle/pragya.dbtechserver.online/zentia/app/BookingModel.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/mboeqrle/pragya.dbtechserver.online/zentia/app/BookingModel.php on line 7
+[05-Aug-2022 22:54:52 Europe/London] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/mboeqrle/pragya.dbtechserver.online/zentia/app/CategoryModel.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/mboeqrle/pragya.dbtechserver.online/zentia/app/CategoryModel.php on line 7
+[05-Aug-2022 22:54:52 Europe/London] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/mboeqrle/pragya.dbtechserver.online/zentia/app/BookingModel.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/mboeqrle/pragya.dbtechserver.online/zentia/app/BookingModel.php on line 7
+[05-Aug-2022 22:54:52 Europe/London] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/mboeqrle/pragya.dbtechserver.online/zentia/app/CategoryModel.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/mboeqrle/pragya.dbtechserver.online/zentia/app/CategoryModel.php on line 7
+[05-Aug-2022 22:54:52 Europe/London] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/mboeqrle/pragya.dbtechserver.online/zentia/app/MasterCatdataModel.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/mboeqrle/pragya.dbtechserver.online/zentia/app/MasterCatdataModel.php on line 13
+[05-Aug-2022 22:54:52 Europe/London] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/mboeqrle/pragya.dbtechserver.online/zentia/app/CountryModel.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/mboeqrle/pragya.dbtechserver.online/zentia/app/CountryModel.php on line 7
+[05-Aug-2022 22:54:52 Europe/London] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/mboeqrle/pragya.dbtechserver.online/zentia/app/CountryModel.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/mboeqrle/pragya.dbtechserver.online/zentia/app/CountryModel.php on line 7
+[05-Aug-2022 22:54:52 Europe/London] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/mboeqrle/pragya.dbtechserver.online/zentia/app/CountryModel.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/mboeqrle/pragya.dbtechserver.online/zentia/app/CountryModel.php on line 7
+[05-Aug-2022 22:54:53 Europe/London] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/mboeqrle/pragya.dbtechserver.online/zentia/app/BookingModel.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/mboeqrle/pragya.dbtechserver.online/zentia/app/BookingModel.php on line 7
+[05-Aug-2022 22:54:53 Europe/London] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/mboeqrle/pragya.dbtechserver.online/zentia/app/CountryModel.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/mboeqrle/pragya.dbtechserver.online/zentia/app/CountryModel.php on line 7
+[05-Aug-2022 22:54:53 Europe/London] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/mboeqrle/pragya.dbtechserver.online/zentia/app/ExpertiseModel.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/mboeqrle/pragya.dbtechserver.online/zentia/app/ExpertiseModel.php on line 7
+[05-Aug-2022 22:54:53 Europe/London] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/mboeqrle/pragya.dbtechserver.online/zentia/app/ExpertiseModel.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/mboeqrle/pragya.dbtechserver.online/zentia/app/ExpertiseModel.php on line 7
+[05-Aug-2022 22:54:53 Europe/London] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/mboeqrle/pragya.dbtechserver.online/zentia/app/ExpertiseModel.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/mboeqrle/pragya.dbtechserver.online/zentia/app/ExpertiseModel.php on line 7
+[05-Aug-2022 22:54:53 Europe/London] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/mboeqrle/pragya.dbtechserver.online/zentia/app/BusinessModel.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/mboeqrle/pragya.dbtechserver.online/zentia/app/BusinessModel.php on line 7
+[05-Aug-2022 22:54:53 Europe/London] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/mboeqrle/pragya.dbtechserver.online/zentia/app/BusinessModel.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/mboeqrle/pragya.dbtechserver.online/zentia/app/BusinessModel.php on line 7
+[05-Aug-2022 22:54:53 Europe/London] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/mboeqrle/pragya.dbtechserver.online/zentia/app/ExpertiseModel.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/mboeqrle/pragya.dbtechserver.online/zentia/app/ExpertiseModel.php on line 7
+[05-Aug-2022 22:54:53 Europe/London] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/mboeqrle/pragya.dbtechserver.online/zentia/app/IndustryModel.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/mboeqrle/pragya.dbtechserver.online/zentia/app/IndustryModel.php on line 7
+[05-Aug-2022 22:54:53 Europe/London] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/mboeqrle/pragya.dbtechserver.online/zentia/app/IndustryModel.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/mboeqrle/pragya.dbtechserver.online/zentia/app/IndustryModel.php on line 7
+[05-Aug-2022 22:54:53 Europe/London] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/mboeqrle/pragya.dbtechserver.online/zentia/app/IndustryModel.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/mboeqrle/pragya.dbtechserver.online/zentia/app/IndustryModel.php on line 7
+[05-Aug-2022 22:54:53 Europe/London] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/mboeqrle/pragya.dbtechserver.online/zentia/app/IndustryModel.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/mboeqrle/pragya.dbtechserver.online/zentia/app/IndustryModel.php on line 7
+[05-Aug-2022 22:54:53 Europe/London] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/mboeqrle/pragya.dbtechserver.online/zentia/app/BusinessModel.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/mboeqrle/pragya.dbtechserver.online/zentia/app/BusinessModel.php on line 7
+[05-Aug-2022 22:54:53 Europe/London] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/mboeqrle/pragya.dbtechserver.online/zentia/app/CountryModel.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/mboeqrle/pragya.dbtechserver.online/zentia/app/CountryModel.php on line 7
+[05-Aug-2022 22:54:53 Europe/London] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/mboeqrle/pragya.dbtechserver.online/zentia/app/IndustryModel.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/mboeqrle/pragya.dbtechserver.online/zentia/app/IndustryModel.php on line 7
+[05-Aug-2022 22:54:53 Europe/London] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/mboeqrle/pragya.dbtechserver.online/zentia/app/BusinessModel.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/mboeqrle/pragya.dbtechserver.online/zentia/app/BusinessModel.php on line 7
+[05-Aug-2022 22:54:53 Europe/London] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/mboeqrle/pragya.dbtechserver.online/zentia/app/IndustryModel.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/mboeqrle/pragya.dbtechserver.online/zentia/app/IndustryModel.php on line 7
+[05-Aug-2022 22:54:53 Europe/London] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/mboeqrle/pragya.dbtechserver.online/zentia/app/CountryModel.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/mboeqrle/pragya.dbtechserver.online/zentia/app/CountryModel.php on line 7
+[05-Aug-2022 22:54:53 Europe/London] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/mboeqrle/pragya.dbtechserver.online/zentia/app/IndustryModel.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/mboeqrle/pragya.dbtechserver.online/zentia/app/IndustryModel.php on line 7
+[05-Aug-2022 22:54:53 Europe/London] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/mboeqrle/pragya.dbtechserver.online/zentia/app/CountryModel.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/mboeqrle/pragya.dbtechserver.online/zentia/app/CountryModel.php on line 7
+[05-Aug-2022 22:54:54 Europe/London] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/mboeqrle/pragya.dbtechserver.online/zentia/app/SeniorityModel.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/mboeqrle/pragya.dbtechserver.online/zentia/app/SeniorityModel.php on line 7
+[05-Aug-2022 22:54:54 Europe/London] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/mboeqrle/pragya.dbtechserver.online/zentia/app/SeniorityModel.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/mboeqrle/pragya.dbtechserver.online/zentia/app/SeniorityModel.php on line 7
+[05-Aug-2022 22:54:54 Europe/London] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/mboeqrle/pragya.dbtechserver.online/zentia/app/SeniorityModel.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/mboeqrle/pragya.dbtechserver.online/zentia/app/SeniorityModel.php on line 7
+[05-Aug-2022 22:54:54 Europe/London] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/mboeqrle/pragya.dbtechserver.online/zentia/app/SeniorityModel.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/mboeqrle/pragya.dbtechserver.online/zentia/app/SeniorityModel.php on line 7
+[05-Aug-2022 22:54:54 Europe/London] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/mboeqrle/pragya.dbtechserver.online/zentia/app/SeniorityModel.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/mboeqrle/pragya.dbtechserver.online/zentia/app/SeniorityModel.php on line 7
+[05-Aug-2022 22:54:55 Europe/London] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/mboeqrle/pragya.dbtechserver.online/zentia/app/MasterCategoryModel.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/mboeqrle/pragya.dbtechserver.online/zentia/app/MasterCategoryModel.php on line 7
+[05-Aug-2022 22:54:55 Europe/London] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/mboeqrle/pragya.dbtechserver.online/zentia/app/MasterCategoryModel.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/mboeqrle/pragya.dbtechserver.online/zentia/app/MasterCategoryModel.php on line 7
+[05-Aug-2022 22:54:55 Europe/London] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/mboeqrle/pragya.dbtechserver.online/zentia/app/MasterCategoryModel.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/mboeqrle/pragya.dbtechserver.online/zentia/app/MasterCategoryModel.php on line 7
+[05-Aug-2022 22:54:55 Europe/London] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/mboeqrle/pragya.dbtechserver.online/zentia/app/MasterCategoryModel.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/mboeqrle/pragya.dbtechserver.online/zentia/app/MasterCategoryModel.php on line 7
+[05-Aug-2022 22:54:55 Europe/London] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/mboeqrle/pragya.dbtechserver.online/zentia/app/MasterCategoryModel.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/mboeqrle/pragya.dbtechserver.online/zentia/app/MasterCategoryModel.php on line 7
+[05-Aug-2022 22:54:55 Europe/London] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/mboeqrle/pragya.dbtechserver.online/zentia/app/SeniorityModel.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/mboeqrle/pragya.dbtechserver.online/zentia/app/SeniorityModel.php on line 7
+[05-Aug-2022 22:54:55 Europe/London] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/mboeqrle/pragya.dbtechserver.online/zentia/app/SeniorityModel.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/mboeqrle/pragya.dbtechserver.online/zentia/app/SeniorityModel.php on line 7
+[05-Aug-2022 22:54:55 Europe/London] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/mboeqrle/pragya.dbtechserver.online/zentia/app/MasterCategoryModel.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/mboeqrle/pragya.dbtechserver.online/zentia/app/MasterCategoryModel.php on line 7
+[05-Aug-2022 22:54:55 Europe/London] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/mboeqrle/pragya.dbtechserver.online/zentia/app/MasterCategoryModel.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/mboeqrle/pragya.dbtechserver.online/zentia/app/MasterCategoryModel.php on line 7
+[05-Aug-2022 22:55:05 Europe/London] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Auth\User' not found in /home/mboeqrle/pragya.dbtechserver.online/zentia/app/User.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/mboeqrle/pragya.dbtechserver.online/zentia/app/User.php on line 9
+[05-Aug-2022 22:55:42 Europe/London] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/mboeqrle/pragya.dbtechserver.online/zentia/app/BookingModel.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/mboeqrle/pragya.dbtechserver.online/zentia/app/BookingModel.php on line 7
+[05-Aug-2022 22:55:43 Europe/London] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/mboeqrle/pragya.dbtechserver.online/zentia/app/ExpertiseModel.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/mboeqrle/pragya.dbtechserver.online/zentia/app/ExpertiseModel.php on line 7
+[05-Aug-2022 22:55:53 Europe/London] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/mboeqrle/pragya.dbtechserver.online/zentia/app/MasterCatdataModel.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/mboeqrle/pragya.dbtechserver.online/zentia/app/MasterCatdataModel.php on line 13
+[05-Aug-2022 22:55:53 Europe/London] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/mboeqrle/pragya.dbtechserver.online/zentia/app/MasterCatdataModel.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/mboeqrle/pragya.dbtechserver.online/zentia/app/MasterCatdataModel.php on line 13
+[05-Aug-2022 22:56:38 Europe/London] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/mboeqrle/pragya.dbtechserver.online/zentia/app/BookingModel.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/mboeqrle/pragya.dbtechserver.online/zentia/app/BookingModel.php on line 7
+[05-Aug-2022 22:57:26 Europe/London] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/mboeqrle/pragya.dbtechserver.online/zentia/app/BookingModel.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/mboeqrle/pragya.dbtechserver.online/zentia/app/BookingModel.php on line 7
+[05-Aug-2022 22:58:23 Europe/London] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Auth\User' not found in /home/mboeqrle/pragya.dbtechserver.online/zentia/app/User.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/mboeqrle/pragya.dbtechserver.online/zentia/app/User.php on line 9
+[05-Aug-2022 22:59:45 Europe/London] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/mboeqrle/pragya.dbtechserver.online/zentia/app/BookingModel.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/mboeqrle/pragya.dbtechserver.online/zentia/app/BookingModel.php on line 7

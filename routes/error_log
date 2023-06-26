@@ -1,0 +1,80 @@
+[05-Aug-2022 22:59:49 Europe/London] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Artisan' not found in /home/mboeqrle/pragya.dbtechserver.online/zentia/routes/console.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/mboeqrle/pragya.dbtechserver.online/zentia/routes/console.php on line 17
+[05-Aug-2022 22:59:50 Europe/London] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Artisan' not found in /home/mboeqrle/pragya.dbtechserver.online/zentia/routes/console.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/mboeqrle/pragya.dbtechserver.online/zentia/routes/console.php on line 17
+[05-Aug-2022 22:59:50 Europe/London] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Artisan' not found in /home/mboeqrle/pragya.dbtechserver.online/zentia/routes/console.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/mboeqrle/pragya.dbtechserver.online/zentia/routes/console.php on line 17
+[05-Aug-2022 22:59:50 Europe/London] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Broadcast' not found in /home/mboeqrle/pragya.dbtechserver.online/zentia/routes/channels.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/mboeqrle/pragya.dbtechserver.online/zentia/routes/channels.php on line 16
+[05-Aug-2022 22:59:50 Europe/London] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Route' not found in /home/mboeqrle/pragya.dbtechserver.online/zentia/routes/web.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/mboeqrle/pragya.dbtechserver.online/zentia/routes/web.php on line 16
+[05-Aug-2022 22:59:50 Europe/London] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Route' not found in /home/mboeqrle/pragya.dbtechserver.online/zentia/routes/web.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/mboeqrle/pragya.dbtechserver.online/zentia/routes/web.php on line 16
+[05-Aug-2022 22:59:50 Europe/London] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Route' not found in /home/mboeqrle/pragya.dbtechserver.online/zentia/routes/web.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/mboeqrle/pragya.dbtechserver.online/zentia/routes/web.php on line 16
+[05-Aug-2022 22:59:50 Europe/London] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Broadcast' not found in /home/mboeqrle/pragya.dbtechserver.online/zentia/routes/channels.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/mboeqrle/pragya.dbtechserver.online/zentia/routes/channels.php on line 16
+[05-Aug-2022 22:59:50 Europe/London] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Artisan' not found in /home/mboeqrle/pragya.dbtechserver.online/zentia/routes/console.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/mboeqrle/pragya.dbtechserver.online/zentia/routes/console.php on line 17
+[05-Aug-2022 22:59:51 Europe/London] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Route' not found in /home/mboeqrle/pragya.dbtechserver.online/zentia/routes/web.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/mboeqrle/pragya.dbtechserver.online/zentia/routes/web.php on line 16
+[05-Aug-2022 22:59:53 Europe/London] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Route' not found in /home/mboeqrle/pragya.dbtechserver.online/zentia/routes/web.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/mboeqrle/pragya.dbtechserver.online/zentia/routes/web.php on line 16
+[05-Aug-2022 22:59:54 Europe/London] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Route' not found in /home/mboeqrle/pragya.dbtechserver.online/zentia/routes/web.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/mboeqrle/pragya.dbtechserver.online/zentia/routes/web.php on line 16
+[05-Aug-2022 22:59:55 Europe/London] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Route' not found in /home/mboeqrle/pragya.dbtechserver.online/zentia/routes/web.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/mboeqrle/pragya.dbtechserver.online/zentia/routes/web.php on line 16
+[05-Aug-2022 23:00:01 Europe/London] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Route' not found in /home/mboeqrle/pragya.dbtechserver.online/zentia/routes/api.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/mboeqrle/pragya.dbtechserver.online/zentia/routes/api.php on line 17
+[05-Aug-2022 23:00:01 Europe/London] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Route' not found in /home/mboeqrle/pragya.dbtechserver.online/zentia/routes/api.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/mboeqrle/pragya.dbtechserver.online/zentia/routes/api.php on line 17
+[05-Aug-2022 23:00:01 Europe/London] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Route' not found in /home/mboeqrle/pragya.dbtechserver.online/zentia/routes/api.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/mboeqrle/pragya.dbtechserver.online/zentia/routes/api.php on line 17
+[05-Aug-2022 23:00:02 Europe/London] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Route' not found in /home/mboeqrle/pragya.dbtechserver.online/zentia/routes/api.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/mboeqrle/pragya.dbtechserver.online/zentia/routes/api.php on line 17
+[05-Aug-2022 23:00:03 Europe/London] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Route' not found in /home/mboeqrle/pragya.dbtechserver.online/zentia/routes/api.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/mboeqrle/pragya.dbtechserver.online/zentia/routes/api.php on line 17
+[05-Aug-2022 23:00:03 Europe/London] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Route' not found in /home/mboeqrle/pragya.dbtechserver.online/zentia/routes/api.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/mboeqrle/pragya.dbtechserver.online/zentia/routes/api.php on line 17
+[05-Aug-2022 23:00:06 Europe/London] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Route' not found in /home/mboeqrle/pragya.dbtechserver.online/zentia/routes/api.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/mboeqrle/pragya.dbtechserver.online/zentia/routes/api.php on line 17
